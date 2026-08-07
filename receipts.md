@@ -36,3 +36,6 @@ Verified via Wayback lookup (third-party fetch):
 - https://explainvalue.ai/blog/portfolio -> https://web.archive.org/web/20260807184825/https://explainvalue.ai/blog/portfolio
 Remaining URLs (blog posts, learn, PDFs, sitemap, mirror commits) will
 be captured by the next nightly run.
+
+## 2026-08-07T21:31:30Z — single-capture canary
+- https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260807213101/https://explainvalue.ai/blog/unh-sotp-april-2026
