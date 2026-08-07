@@ -26,3 +26,13 @@ Appended by the nightly archive job. Each line links a live URL to its dated sna
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf — skipped: submit failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa8e65cfc50>: Failed to establish a new connection: [Errno 111] Connection refused'))
 - https://explainvalue.ai/sitemap.xml — skipped: submit failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa8e65cf750>: Failed to establish a new connection: [Errno 111] Connection refused'))
 - https://github.com/explainvalue/blog-mirror/commits/main — skipped: submit failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa8e64ac410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+## 2026-08-07T19:05:00Z — manual reconciliation
+The 18:47 UTC sweep submitted all 24 URLs; roughly the first six
+captures completed before archive.org's rate protection re-engaged,
+and the polling step failed before receipts could be recorded.
+Verified via Wayback lookup (third-party fetch):
+- https://explainvalue.ai/ -> https://web.archive.org/web/20260807184801/https://explainvalue.ai/
+- https://explainvalue.ai/blog/portfolio -> https://web.archive.org/web/20260807184825/https://explainvalue.ai/blog/portfolio
+Remaining URLs (blog posts, learn, PDFs, sitemap, mirror commits) will
+be captured by the next nightly run.
