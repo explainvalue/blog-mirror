@@ -65,3 +65,7 @@ be captured by the next nightly run.
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260808032322/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260808032335/https://explainvalue.ai/sitemap.xml
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260808032407/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-08-08T14:40:00Z — completion retries
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 -> https://web.archive.org/web/20260808143923/https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — SPN job failed twice (IA-side; our server returned 200 to IA's fetches) — next nightly retries
