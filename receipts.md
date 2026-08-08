@@ -39,3 +39,29 @@ be captured by the next nightly run.
 
 ## 2026-08-07T21:31:30Z — single-capture canary
 - https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260807213101/https://explainvalue.ai/blog/unh-sotp-april-2026
+
+## 2026-08-08T03:24:31Z
+- https://explainvalue.ai/ -> https://web.archive.org/web/20260808031712/https://explainvalue.ai/
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20260808031722/https://explainvalue.ai/blog
+- https://explainvalue.ai/learn -> https://web.archive.org/web/20260808031735/https://explainvalue.ai/learn
+- https://explainvalue.ai/blog/portfolio -> https://web.archive.org/web/20260808031812/https://explainvalue.ai/blog/portfolio
+- https://explainvalue.ai/terms -> https://web.archive.org/web/20260808031818/https://explainvalue.ai/terms
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/privacy -> https://web.archive.org/web/20260808031931/https://explainvalue.ai/privacy
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 -> https://web.archive.org/web/20260808031925/https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 -> https://web.archive.org/web/20260808032012/https://explainvalue.ai/blog/gpor-ep-sotp-july-2026
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 -> https://web.archive.org/web/20260808031953/https://explainvalue.ai/blog/structural-fcf-breaks-may-2026
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 -> https://web.archive.org/web/20260808032005/https://explainvalue.ai/blog/fslr-policy-trade-may-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/hban-near-book-may-2026 -> https://web.archive.org/web/20260808032046/https://explainvalue.ai/blog/hban-near-book-may-2026
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 -> https://web.archive.org/web/20260808032050/https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20260808032111/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260808032200/https://explainvalue.ai/blog/unh-sotp-april-2026
+- https://explainvalue.ai/learn/what-is-a-dcf-apple -> https://web.archive.org/web/20260808032204/https://explainvalue.ai/learn/what-is-a-dcf-apple
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20260808032237/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf -> https://web.archive.org/web/20260808032230/https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf -> https://web.archive.org/web/20260808032242/https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260808032310/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260808032322/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260808032335/https://explainvalue.ai/sitemap.xml
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260808032407/https://github.com/explainvalue/blog-mirror/commits/main
