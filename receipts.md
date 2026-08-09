@@ -69,3 +69,7 @@ be captured by the next nightly run.
 ## 2026-08-08T14:40:00Z — completion retries
 - https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 -> https://web.archive.org/web/20260808143923/https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026
 - https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — SPN job failed twice (IA-side; our server returned 200 to IA's fetches) — next nightly retries
+
+## 2026-08-09T11:58:00Z — day-0 complete
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 -> https://web.archive.org/web/20260809115726/https://explainvalue.ai/blog/usb-franchise-discount-may-2026
+All 24 public URLs now hold Wayback captures.
