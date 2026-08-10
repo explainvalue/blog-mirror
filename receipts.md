@@ -73,3 +73,29 @@ be captured by the next nightly run.
 ## 2026-08-09T11:58:00Z — day-0 complete
 - https://explainvalue.ai/blog/usb-franchise-discount-may-2026 -> https://web.archive.org/web/20260809115726/https://explainvalue.ai/blog/usb-franchise-discount-may-2026
 All 24 public URLs now hold Wayback captures.
+
+## 2026-08-10T03:24:08Z
+- https://explainvalue.ai/ -> https://web.archive.org/web/20260810031717/https://explainvalue.ai/
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20260810031722/https://explainvalue.ai/blog
+- https://explainvalue.ai/learn -> https://web.archive.org/web/20260810031735/https://explainvalue.ai/learn
+- https://explainvalue.ai/blog/portfolio — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/privacy -> https://web.archive.org/web/20260810031827/https://explainvalue.ai/privacy
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 -> https://web.archive.org/web/20260810031839/https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026
+- https://explainvalue.ai/terms -> https://web.archive.org/web/20260810031903/https://explainvalue.ai/terms
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 -> https://web.archive.org/web/20260810031915/https://explainvalue.ai/blog/gpor-ep-sotp-july-2026
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 -> https://web.archive.org/web/20260810031919/https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 -> https://web.archive.org/web/20260810031947/https://explainvalue.ai/blog/structural-fcf-breaks-may-2026
+- https://explainvalue.ai/blog/hban-near-book-may-2026 -> https://web.archive.org/web/20260810032012/https://explainvalue.ai/blog/hban-near-book-may-2026
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 -> https://web.archive.org/web/20260810032025/https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 -> https://web.archive.org/web/20260810032053/https://explainvalue.ai/blog/usb-franchise-discount-may-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20260810032105/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20260810032118/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
+- https://explainvalue.ai/learn/what-is-a-dcf-apple — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260810032145/https://explainvalue.ai/blog/unh-sotp-april-2026
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf -> https://web.archive.org/web/20260810032208/https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf -> https://web.archive.org/web/20260810032220/https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260810032251/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260810032300/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260810032313/https://explainvalue.ai/sitemap.xml
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260810032344/https://github.com/explainvalue/blog-mirror/commits/main
