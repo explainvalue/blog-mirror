@@ -151,3 +151,29 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260812032430/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260812032442/https://github.com/explainvalue/blog-mirror/commits/main
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260812032506/https://explainvalue.ai/sitemap.xml
+
+## 2026-08-13T03:24:18Z
+- https://explainvalue.ai/ -> https://web.archive.org/web/20260813031714/https://explainvalue.ai/
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20260813031727/https://explainvalue.ai/blog
+- https://explainvalue.ai/learn -> https://web.archive.org/web/20260813031832/https://explainvalue.ai/learn
+- https://explainvalue.ai/blog/portfolio -> https://web.archive.org/web/20260813031814/https://explainvalue.ai/blog/portfolio
+- https://explainvalue.ai/terms -> https://web.archive.org/web/20260813031822/https://explainvalue.ai/terms
+- https://explainvalue.ai/privacy -> https://web.archive.org/web/20260813031850/https://explainvalue.ai/privacy
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 -> https://web.archive.org/web/20260813031903/https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 -> https://web.archive.org/web/20260813031915/https://explainvalue.ai/blog/gpor-ep-sotp-july-2026
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 -> https://web.archive.org/web/20260813031943/https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 -> https://web.archive.org/web/20260813032008/https://explainvalue.ai/blog/fslr-policy-trade-may-2026
+- https://explainvalue.ai/blog/hban-near-book-may-2026 -> https://web.archive.org/web/20260813032021/https://explainvalue.ai/blog/hban-near-book-may-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 -> https://web.archive.org/web/20260813032048/https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20260813032113/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20260813032125/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
+- https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260813032159/https://explainvalue.ai/blog/unh-sotp-april-2026
+- https://explainvalue.ai/learn/what-is-a-dcf-apple -> https://web.archive.org/web/20260813032206/https://explainvalue.ai/learn/what-is-a-dcf-apple
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf -> https://web.archive.org/web/20260813032218/https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf -> https://web.archive.org/web/20260813032246/https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260813032311/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260813032323/https://explainvalue.ai/sitemap.xml
+- https://github.com/explainvalue/blog-mirror/commits/main — ERROR: The target server cannot find https://github.com/explainvalue/blog-mirror/commits/main. (HTTP status=404)
