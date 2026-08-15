@@ -203,3 +203,29 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260814032315/https://explainvalue.ai/sitemap.xml
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260814032350/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260814032424/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-08-15T03:23:31Z
+- https://explainvalue.ai/ — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/learn — skipped: The same snapshot had been made 47 hours, 58 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/portfolio — skipped: The same snapshot had been made 47 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/terms -> https://web.archive.org/web/20260815031757/https://explainvalue.ai/terms
+- https://explainvalue.ai/privacy -> https://web.archive.org/web/20260815031808/https://explainvalue.ai/privacy
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 -> https://web.archive.org/web/20260815031821/https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 — skipped: The same snapshot had been made 47 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 — skipped: The same snapshot had been made 71 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 — skipped: The same snapshot had been made 47 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 -> https://web.archive.org/web/20260815031855/https://explainvalue.ai/blog/gpor-ep-sotp-july-2026
+- https://explainvalue.ai/blog/hban-near-book-may-2026 -> https://web.archive.org/web/20260815031953/https://explainvalue.ai/blog/hban-near-book-may-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 -> https://web.archive.org/web/20260815032022/https://explainvalue.ai/blog/usb-franchise-discount-may-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20260815032035/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/unh-sotp-april-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/learn/what-is-a-dcf-apple — skipped: The same snapshot had been made 47 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 -> https://web.archive.org/web/20260815032051/https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf -> https://web.archive.org/web/20260815032140/https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf -> https://web.archive.org/web/20260815032156/https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf
+- https://explainvalue.ai/sitemap.xml — skipped: The same snapshot had been made 140 hours, 51 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260815032224/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260815032236/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260815032307/https://github.com/explainvalue/blog-mirror/commits/main
