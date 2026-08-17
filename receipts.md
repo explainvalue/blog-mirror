@@ -255,3 +255,29 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/sitemap.xml — skipped: The same snapshot had been made 164 hours, 51 minutes ago. You can make new capture of this URL after 168 hours.
 - https://github.com/explainvalue/blog-mirror/commits/main — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260816032249/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
+
+## 2026-08-17T03:23:59Z
+- https://explainvalue.ai/ — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/learn — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/portfolio — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/terms — submit failed: 404 Client Error: NOT FOUND for url: https://web.archive.org/save
+- https://explainvalue.ai/privacy — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/hban-near-book-may-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/unh-sotp-april-2026 — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/learn/what-is-a-dcf-apple — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://explainvalue.ai/sitemap.xml — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
+- https://github.com/explainvalue/blog-mirror/commits/main — submit failed: 503 Server Error: Service Unavailable for url: https://web.archive.org/save
