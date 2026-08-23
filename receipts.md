@@ -385,3 +385,29 @@ All 24 public URLs now hold Wayback captures.
 - https://github.com/explainvalue/blog-mirror/commits/main — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf -> https://web.archive.org/web/20260822032342/https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260822032341/https://explainvalue.ai/sitemap.xml
+
+## 2026-08-23T03:23:23Z
+- https://explainvalue.ai/learn — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/ -> https://web.archive.org/web/20260823031706/https://explainvalue.ai/
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20260823031719/https://explainvalue.ai/blog
+- https://explainvalue.ai/blog/portfolio -> https://web.archive.org/web/20260823031748/https://explainvalue.ai/blog/portfolio
+- https://explainvalue.ai/terms — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/privacy — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 — skipped: The same snapshot had been made 72 hours ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/hban-near-book-may-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 -> https://web.archive.org/web/20260823031902/https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 -> https://web.archive.org/web/20260823031926/https://explainvalue.ai/blog/fslr-policy-trade-may-2026
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — skipped: The same snapshot had been made 23 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 -> https://web.archive.org/web/20260823032040/https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20260823032044/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20260823032112/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/unh-sotp-april-2026 -> https://web.archive.org/web/20260823032123/https://explainvalue.ai/blog/unh-sotp-april-2026
+- https://explainvalue.ai/learn/what-is-a-dcf-apple -> https://web.archive.org/web/20260823032124/https://explainvalue.ai/learn/what-is-a-dcf-apple
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf — skipped: The same snapshot had been made 120 hours ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf — skipped: The same snapshot had been made 119 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf — skipped: The same snapshot had been made 120 hours ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf — skipped: The same snapshot had been made 119 hours, 59 minutes ago. You can make new capture of this URL after 168 hours.
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260823032242/https://explainvalue.ai/sitemap.xml
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260823032258/https://github.com/explainvalue/blog-mirror/commits/main
