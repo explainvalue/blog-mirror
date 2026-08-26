@@ -463,3 +463,29 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf -> https://web.archive.org/web/20260825032247/https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260825032312/https://explainvalue.ai/sitemap.xml
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260825032342/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-08-26T03:18:02Z
+- https://explainvalue.ai/ — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/learn — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/portfolio — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/terms — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/privacy — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/gs-ms-priced-forever-july-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/gpor-ep-sotp-july-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/bank-cost-of-equity-correction-june-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/structural-fcf-breaks-may-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/fslr-policy-trade-may-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/hban-near-book-may-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/bank-regulatory-tiers-may-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/usb-franchise-discount-may-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/blog/unh-sotp-april-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/learn/what-is-a-dcf-apple — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/static/briefings/financials_sector_20260516.pdf — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/static/briefings/financials_sector_20260725.pdf — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260419.pdf — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://explainvalue.ai/sitemap.xml — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+- https://github.com/explainvalue/blog-mirror/commits/main — NOT SUBMITTED (aborted after network refusal; next nightly retries)
