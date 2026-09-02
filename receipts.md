@@ -645,3 +645,6 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/static/briefings/healthcare_sector_20260425.pdf — NOT SUBMITTED (aborted after network refusal; next nightly retries)
 - https://explainvalue.ai/sitemap.xml — NOT SUBMITTED (aborted after network refusal; next nightly retries)
 - https://github.com/explainvalue/blog-mirror/commits/main — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+
+## 2026-09-02T23:27:03Z
+- https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
