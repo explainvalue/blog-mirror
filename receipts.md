@@ -648,3 +648,6 @@ All 24 public URLs now hold Wayback captures.
 
 ## 2026-09-02T23:27:03Z
 - https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 — NOT SUBMITTED (aborted after network refusal; next nightly retries)
+
+## 2026-09-03T11:01:25Z
+- https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 -> https://web.archive.org/web/20260903110102/https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026
