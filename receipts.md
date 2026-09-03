@@ -651,3 +651,8 @@ All 24 public URLs now hold Wayback captures.
 
 ## 2026-09-03T11:01:25Z
 - https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 -> https://web.archive.org/web/20260903110102/https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026
+
+## 2026-09-03T11:11:37Z
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20260903110820/https://explainvalue.ai/blog
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20260903110851/https://explainvalue.ai/sitemap.xml
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260903111114/https://github.com/explainvalue/blog-mirror/commits/main
