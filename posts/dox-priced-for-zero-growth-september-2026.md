@@ -11,6 +11,7 @@ author: Bobak Farzin
 tags: [DOX, dcf-fcff, Technology]
 hero_ticker: DOX
 portfolio_update: true
+superseded_by: "dox-stock-comp-correction-september-2026"
 agent_context:
   "@context": "https://explainvalue.ai/schema/v1/agent-context"
   "@type": "InvestmentThesisPost"
