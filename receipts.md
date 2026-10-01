@@ -663,3 +663,8 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/blog — ERROR: Job failed.
 - https://explainvalue.ai/sitemap.xml — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20260930031812/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-10-01T03:17:54Z
+- https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 -> https://web.archive.org/web/20261001031718/https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20261001031728/https://explainvalue.ai/blog
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20261001031727/https://explainvalue.ai/sitemap.xml
