@@ -123,6 +123,14 @@ agent_context:
     - "Author asks for substantive pushback on the four flagged ramping-product peaks (Cobenfy/Sotyktu/Krazati/Abecma) more than on the platform layer methodology, which is documented in the companion post."
 ---
 
+> **Update, October 2026.** We have since rebuilt parts of our pharma method
+> on six months of data: R&D charged once, by what it pays for; margins from
+> each company's own filings; the balance sheet read from the filing; partner
+> payments charged to the drugs that earn them. See
+> [how the method changed](/blog/pharma-method-update-october-2026) and
+> [what it does to BMY](/blog/bmy-value-update-october-2026). This post
+> stays as published on April 29.
+
 <div class="stat-row">
   <div class="stat">
     <div class="label">Fair value (full SOTP)</div>
