@@ -9,6 +9,13 @@ hero_ticker:
 portfolio_update: false
 ---
 
+> **Update, October 2026.** We no longer use ρ. R&D is now valued by what it
+> pays for, with one factor for future drugs applied to every company
+> ([how the method changed](/blog/pharma-method-update-october-2026)). The
+> finding in this post still holds, and it is why that factor is one number
+> for the whole sector: a company's past R&D productivity did not predict its
+> future productivity.
+
 When we wrote about [BMY at $59](/blog/bmy-pharma-sotp-april-2026), the load-bearing assumption in the third valuation layer was a single number: **ρ = 1.5x**. That's the productivity ratio of R&D spend that converts to enterprise value, applied as a sector-wide constant. Every pharma name we model gets the same number.
 
 A careful reader's first question is the right one: *isn't BMY's R&D engine different from LLY's, from MRK's, from PFE's?* Maybe it is. But we cannot show that it is, going forward, with any data we have. This post explains what we tried, why it didn't work, and why the honest call is to use the sector average.
