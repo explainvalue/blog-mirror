@@ -668,3 +668,12 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026 -> https://web.archive.org/web/20261001031718/https://explainvalue.ai/blog/dox-priced-for-zero-growth-september-2026
 - https://explainvalue.ai/blog -> https://web.archive.org/web/20261001031728/https://explainvalue.ai/blog
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20261001031727/https://explainvalue.ai/sitemap.xml
+
+## 2026-10-26T03:19:48Z
+- https://explainvalue.ai/blog/pharma-method-update-october-2026 -> https://web.archive.org/web/20261026031707/https://explainvalue.ai/blog/pharma-method-update-october-2026
+- https://explainvalue.ai/blog/bmy-value-update-october-2026 -> https://web.archive.org/web/20261026031725/https://explainvalue.ai/blog/bmy-value-update-october-2026
+- https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026 -> https://web.archive.org/web/20261026031732/https://explainvalue.ai/blog/bmy-pharma-sotp-april-2026
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20261026031823/https://explainvalue.ai/sitemap.xml
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20261026031901/https://explainvalue.ai/blog
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20261026031932/https://github.com/explainvalue/blog-mirror/commits/main
