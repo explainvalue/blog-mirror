@@ -677,3 +677,10 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20261026031823/https://explainvalue.ai/sitemap.xml
 - https://explainvalue.ai/blog -> https://web.archive.org/web/20261026031901/https://explainvalue.ai/blog
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20261026031932/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-10-27T03:18:37Z
+- https://explainvalue.ai/blog/rei-half-off-october-2026 -> https://web.archive.org/web/20261027031706/https://explainvalue.ai/blog/rei-half-off-october-2026
+- https://explainvalue.ai/blog -> https://web.archive.org/web/20261027031736/https://explainvalue.ai/blog
+- https://explainvalue.ai/sitemap.xml — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
+- https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20261027031806/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
+- https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20261027031813/https://github.com/explainvalue/blog-mirror/commits/main
