@@ -684,3 +684,6 @@ All 24 public URLs now hold Wayback captures.
 - https://explainvalue.ai/sitemap.xml — submit failed: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save
 - https://explainvalue.ai/blog/pharma-platform-rho-april-2026 -> https://web.archive.org/web/20261027031806/https://explainvalue.ai/blog/pharma-platform-rho-april-2026
 - https://github.com/explainvalue/blog-mirror/commits/main -> https://web.archive.org/web/20261027031813/https://github.com/explainvalue/blog-mirror/commits/main
+
+## 2026-10-28T03:17:30Z
+- https://explainvalue.ai/sitemap.xml -> https://web.archive.org/web/20261028031703/https://explainvalue.ai/sitemap.xml
